@@ -1,0 +1,11 @@
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\bin\Debug\netcoreapp2.1\Ex-Listas.deps.json
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\bin\Debug\netcoreapp2.1\Ex-Listas.runtimeconfig.json
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\bin\Debug\netcoreapp2.1\Ex-Listas.runtimeconfig.dev.json
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\bin\Debug\netcoreapp2.1\Ex-Listas.dll
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\bin\Debug\netcoreapp2.1\Ex-Listas.pdb
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.csprojAssemblyReference.cache
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.csproj.CoreCompileInputs.cache
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.AssemblyInfoInputs.cache
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.AssemblyInfo.cs
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.dll
+C:\Users\U001964\source\repos\Ex-Listas\Ex-Listas\obj\Debug\netcoreapp2.1\Ex-Listas.pdb
